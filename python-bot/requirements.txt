@@ -1,5 +1,5 @@
 pyTelegramBotAPI
-python-telegram-bot-calendar
 pandas
 openpyxl
-flask
+python-telegram-bot-calendar
+telegram_bot_calendar
